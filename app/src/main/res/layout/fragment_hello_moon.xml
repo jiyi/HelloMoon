@@ -12,7 +12,7 @@
         android:contentDescription="@string/hellomoon_description" />
 
     <TableRow
-        android:layout_gravity="center|bottom"
+        android:gravity="center|bottom"
         android:layout_weight="0">
 
         <Button
